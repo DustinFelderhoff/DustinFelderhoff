@@ -21,6 +21,8 @@ I sit at the intersection of data, user behavior, and emerging tech — turning 
 |------|-----------|
 | [`product-ground-truth`](https://github.com/DustinFelderhoff/product-ground-truth) | My PM framework — understand your product, users, and market before you build anything new. Includes guides and fillable templates. |
 | [`pm-brain`](https://github.com/DustinFelderhoff/pm-brain) | AI-powered PM operating system — playbooks, frameworks, and guides bridging theory to daily execution |
+| [`story-sundays`](https://github.com/DustinFelderhoff/story-sundays) | *Currently Building:* A privacy-first family video vault. Architecting complex identity models (Accounts vs. Persons), circle-based RLS, edge-secured storage (Cloudflare Workers + R2), and AI interviewer loops. |
+| *Coming soon* | Growth teardowns — annotated breakdowns of growth mechanics in consumer and B2B products |
 | *Coming soon* | AI product trend tracker — weekly notes on what's shifting in the AI product landscape |
 | *Coming soon* | Growth teardowns — annotated breakdowns of growth mechanics in consumer and B2B products |
 
